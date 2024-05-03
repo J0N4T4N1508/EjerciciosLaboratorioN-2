@@ -1,0 +1,14 @@
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.exe
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.deps.json
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.runtimeconfig.json
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.dll
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.pdb
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.AssemblyInfoInputs.cache
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.AssemblyInfo.cs
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.csproj.CoreCompileInputs.cache
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.dll
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\refint\EJERCICIO6.dll
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.pdb
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.genruntimeconfig.cache
+C:\Users\51946\Desktop\git\EJERCICIOS-LAB2\EJERCICIO6\obj\Debug\net8.0\ref\EJERCICIO6.dll
